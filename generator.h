@@ -1,6 +1,6 @@
 #ifndef gen_h
 #define gen_h
-#include "gen_prototype.h"
+#include "generator_prototype.h"
 
 int binom(int n , int k){
     int ac = 1; //accumulation
