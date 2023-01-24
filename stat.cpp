@@ -9,7 +9,7 @@ sample variance approx. :
 }
 */
 #include <iostream>
-#include "gen.h"
+#include "generator.h"
 #define NUM_TEST 10000000
 #define n 6
 #define a 30
