@@ -11,13 +11,6 @@
 */
 int binom(int n , int k); 
 
-// /*
-// * should not be called by user . Users should use binom as interface . \
-// * associates with  binom . Does the tail recursion . 
-// * @param ac accumulation since the start of recursion 
-// */
-// int binom_tail_recur(int n , int k); 
-
 /*
 * uniform random vector generator 
 * Generates a random vector v which is uniformly distributed over the sample space {v\in\mathbb{Z}^n : 1^Tv = a , v \ge 0}
