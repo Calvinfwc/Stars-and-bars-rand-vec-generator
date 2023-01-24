@@ -9,7 +9,7 @@ sample variance approx. :
 }
 */
 #include <iostream>
-#include "unif_rand_vec_gen.h"
+#include "gen.h"
 #define NUM_TEST 10000000
 #define n 6
 #define a 30
