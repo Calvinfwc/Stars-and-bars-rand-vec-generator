@@ -1,5 +1,5 @@
-#ifndef gen_proto
-#define gen_proto
+#ifndef gen_proto_h
+#define gen_proto_h
 #include <vector>
 #include <random>
 
